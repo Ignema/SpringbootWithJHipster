@@ -1,0 +1,9 @@
+entity User {
+	uid String,
+    displayName String,
+    email String,
+    isDoctor Boolean,
+    docId String,
+    photoURL String
+}
+
